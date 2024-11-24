@@ -1,0 +1,25 @@
+.odd {
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+
+}
+
+p {
+    background-color: rgba(221, 84, 84, 0.543);
+    font-size: 16px
+}
+
+#two{
+    background-color: transparent;
+    color: blue;
+    font-size: 36px
+}
+
+#three{
+    font-size: 24px;
+}
+
+#four{
+    background-color: rgba(47, 219, 47, 0.673);
+    font-weight:bold;
+    font-size: 24px;
+}
